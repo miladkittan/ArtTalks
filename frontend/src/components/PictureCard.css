@@ -1,0 +1,43 @@
+/* frontend/src/components/PictureCard.css */
+
+.picture-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    width: 250px;
+    margin: 16px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .picture-card:hover {
+    transform: scale(1.05);  /* Slight zoom effect on hover */
+  }
+  
+  .picture-image {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+  }
+  
+  .picture-name {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin: 10px 0;
+  }
+  
+  .picture-artist {
+    font-size: 1rem;
+    color: #777;
+    margin-bottom: 10px;
+  }
+  
+  .picture-description {
+    font-size: 0.9rem;
+    color: #333;
+    margin-top: 0;
+    line-height: 1.4;
+  }
+  

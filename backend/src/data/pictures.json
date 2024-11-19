@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "name": "Starry Night",
+      "artist": "Vincent van Gogh",
+      "description": "A famous painting by Vincent van Gogh, depicting a starry night over a small town.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1200px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mona Lisa",
+      "artist": "Leonardo da Vinci",
+      "description": "One of the most famous paintings of all time, showing a woman with a mysterious smile.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/1200px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg"
+    },
+    {
+      "id": 3,
+      "name": "The Persistence of Memory",
+      "artist": "Salvador Dalí",
+      "description": "A surrealist painting known for its melting clocks in a dreamlike landscape.",
+      "imageUrl": "https://www.singulart.com/images/artworks/v2/cropped/54718/alts/alt_2047336_1be4af8aaf321cda716f08bd62d9ba3e.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "The Scream",
+      "artist": "Edvard Munch",
+      "description": "An iconic expressionist painting depicting a figure with a haunted expression against a swirling sky.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg"
+    },
+    {
+      "id": 5,
+      "name": "The Girl with a Pearl Earring",
+      "artist": "Johannes Vermeer",
+      "description": "A portrait of a young girl wearing a blue and yellow turban with a large pearl earring.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/800px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "id": 6,
+      "name": "The Last Supper",
+      "artist": "Leonardo da Vinci",
+      "description": "A famous mural depicting the moment Jesus shares his final meal with his disciples.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Leonardo_da_Vinci_%281452-1519%29_-_The_Last_Supper_%281495-1498%29.jpg/1200px-Leonardo_da_Vinci_%281452-1519%29_-_The_Last_Supper_%281495-1498%29.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Guernica",
+      "artist": "Pablo Picasso",
+      "description": "A powerful anti-war painting created in response to the bombing of Guernica during the Spanish Civil War.",
+      "imageUrl": "https://static3.museoreinasofia.es/sites/default/files/obras/DE00050_0.jpg"
+    },
+    {
+      "id": 8,
+      "name": "The Night Watch",
+      "artist": "Rembrandt",
+      "description": "A large painting depicting a militia company in a dramatic action scene, known for its lighting technique.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Night_Watch_-_HD.jpg/1200px-The_Night_Watch_-_HD.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Water Lilies",
+      "artist": "Claude Monet",
+      "description": "A series of impressionist paintings depicting Monet's garden pond with floating water lilies.",
+      "imageUrl": "public/images/starry-night.jpg"
+    },
+    {
+      "id": 10,
+      "name": "The Kiss",
+      "artist": "Gustav Klimt",
+      "description": "A symbolic and sensual painting of a couple embracing, adorned with gold leaf.",
+      "imageUrl": "public/images/starry-night.jpg"
+    },
+    {
+      "id": 11,
+      "name": "American Gothic",
+      "artist": "Grant Wood",
+      "description": "A portrait of a farmer and his daughter standing in front of a farmhouse, symbolizing rural American life.",
+      "imageUrl": "public/images/starry-night.jpg"
+    },
+    {
+      "id": 12,
+      "name": "The Birth of Venus",
+      "artist": "Sandro Botticelli",
+      "description": "A painting depicting the mythological birth of Venus, emerging from the sea.",
+      "imageUrl": "public/images/starry-night.jpg"
+    },
+    {
+      "id": 13,
+      "name": "The Creation of Adam",
+      "artist": "Michelangelo",
+      "description": "A fresco painting from the Sistine Chapel, showing God and Adam reaching out to each other.",
+      "imageUrl": "public/images/starry-night.jpg"
+    },
+    {
+      "id": 14,
+      "name": "The Birth of Venus",
+      "artist": "Sandro Botticelli",
+      "description": "A classical depiction of Venus arriving on the shore, symbolizing beauty and divine love.",
+      "imageUrl": "public/images/starry-night.jpg"
+    },
+    {
+      "id": 15,
+      "name": "The Raft of Medusa",
+      "artist": "Théodore Géricault",
+      "description": "A dramatic and haunting painting that depicts the aftermath of a shipwreck, with survivors struggling in the sea.",
+      "imageUrl": "public/images/starry-night.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Olympia",
+      "artist": "Édouard Manet",
+      "description": "A provocative painting of a reclining nude woman, challenging traditional depictions of female nudes in art.",
+      "imageUrl": "public/images/starry-night.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Les Demoiselles d'Avignon",
+      "artist": "Pablo Picasso",
+      "description": "A revolutionary painting that marked the beginning of Picasso's Cubist style, featuring five female figures.",
+      "imageUrl": "public/images/starry-night.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Self-Portrait with Cropped Hair",
+      "artist": "Frida Kahlo",
+      "description": "A self-portrait depicting Kahlo with short hair, symbolizing her rejection of gender expectations and societal norms.",
+      "imageUrl": "public/images/starry-night.jpg"
+    },
+    {
+      "id": 19,
+      "name": "The School of Athens",
+      "artist": "Raphael",
+      "description": "A fresco painting representing the great philosophers of Ancient Greece, depicted in a grand architectural space.",
+      "imageUrl": "public/images/starry-night.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Nighthawks",
+      "artist": "Edward Hopper",
+      "description": "A famous painting of a late-night diner scene, capturing the loneliness and isolation of modern life.",
+      "imageUrl": "public/images/starry-night.jpg"
+    }
+  ]
+  
