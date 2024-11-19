@@ -1,15 +1,16 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'; // Import routing components
-import GalleryPage from './pages/GalleryPage';  // Import the GalleryPage component
-import './App.css'; // Import global styles
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import GalleryPage from './pages/GalleryPage'; 
+import PictureDetailPage from './pages/PictureDetailPage';
+import './App.css';
 
 function App() {
   return (
     <Router>
       <div className="App">
         <Routes>
-          {/* Define the routes for your app */}
           <Route path="/" element={<GalleryPage />} />
+          <Route path="/picture/:id" element={<PictureDetailPage />} /> 
         </Routes>
       </div>
     </Router>

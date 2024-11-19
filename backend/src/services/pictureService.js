@@ -11,4 +11,8 @@ const getAllPictures = () => {
   return pictures;
 };
 
-module.exports = { getFilteredPictures, getAllPictures };
+const getPictureById = (id) => {
+  return pictures.find(picture => picture.id === id);
+};
+
+module.exports = { getFilteredPictures, getAllPictures, getPictureById };
