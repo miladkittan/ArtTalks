@@ -38,7 +38,7 @@ function GalleryPage() {
         <h1>Art Talks</h1>
         <input
           type="text"
-          placeholder="Search by name or artist..."
+          placeholder="What are you looking for?"
           value={searchTerm}
           onChange={handleSearchChange}
           className="search-input"
